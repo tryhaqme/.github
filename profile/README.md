@@ -69,7 +69,7 @@ platform.welcome()
 <div align="right" style="border: 2px solid #FF0000; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 
   <p align="center">
-  <a href="https://github.com/organization/tryhaqme/XSS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tryhaqme&repo=XSS&theme=dark&title_color=ea757b&icon_color=ea757b&text_color=ea757b&bg_color=0d1117"/></a>
+  <a href="https://github.com/tryhaqme/XSS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tryhaqme&repo=XSS&theme=dark&title_color=ea757b&icon_color=ea757b&text_color=ea757b&bg_color=0d1117"/></a>
 <!--   <a href="https://github.com/tryhaqme/vulnerable-web-app-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tryhaqme&repo=vulnerable-web-app-2&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=1e1e1e"/></a> -->
 <!--   <a href="https://github.com/tryhaqme/vulnerable-web-app-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tryhaqme&repo=vulnerable-web-app-3&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=1e1e1e"/></a> -->
   </p>
